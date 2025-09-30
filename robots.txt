@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://accidentlawyerboston.com/sitemap.xml
